@@ -85,6 +85,7 @@ dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-max3pro-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rg353m-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rg353p-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-rg353v-linux.dtb
+dtb-$(CONFIG_ARCH_ROCKCHIP) += tspi-rk3566-user-v10-linux.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-evb2-lp4x-v10-pdm-mic-array.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-evb3-ddr3-v10.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3566-evb3-ddr3-v10-linux.dtb
