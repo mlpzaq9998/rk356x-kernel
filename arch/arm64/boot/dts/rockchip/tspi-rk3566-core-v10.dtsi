@@ -281,11 +281,13 @@
 };
 
 //npu总线
+/*
 &bus_npu {
 	bus-supply = <&vdd_logic>;
 	pvtm-supply = <&vdd_cpu>;
 	status = "okay";
 };
+*/
 
 //can0接口
 &can0 {
